@@ -1,0 +1,13 @@
+# Bibliotecas utilizadas pelos scripts. Versões da execução estão em docs/ambiente_retomada_1000.json.
+# A instalação com estas dependências não garante reprodução numérica idêntica.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+optuna
+openpyxl
+ipython
+python-docx
+jupyterlab
